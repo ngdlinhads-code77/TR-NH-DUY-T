@@ -1,0 +1,33 @@
+{
+  "name": "mimic-windows-x64",
+  "version": "157.0.8103.16",
+  "platform": "windows",
+  "architecture": "x64",
+  "origin": "Multilogin Mimic; existing original local component",
+  "intended_repository": "ngdlinhads-code77/TR-NH-DUY-T",
+  "archive": {
+    "filename": "Mimic-157.0.8103.16-windows-x64.zip",
+    "bytes": 257886966,
+    "sha256": "a31c3ab3d9dc23eb137f41d64e83ec15a7d4b163141bc1ec4b5f4daf4bcdb076",
+    "download_url": "https://github.com/ngdlinhads-code77/TR-NH-DUY-T/releases/download/mimic-157.0.8103.16/Mimic-157.0.8103.16-windows-x64.zip",
+    "github_asset_id": 764353393
+  },
+  "original_file_count": 327,
+  "original_bytes": 566687082,
+  "binaries": {
+    "chrome.exe": {
+      "sha256": "f4bc8fcf15192dbbf4d7c573b941680a375d182422a5f11927d730f332378678"
+    },
+    "chrome.dll": {
+      "sha256": "5f6d159bf4f08947ea1cbe07e6dec2c7c9ccf6a9b087fa1c226e422c64b88bde"
+    }
+  },
+  "contains_user_profiles": false,
+  "contains_keys_or_credentials": false,
+  "contains_browser_tools_source": false,
+  "rebuilt_browser": false,
+  "browser_tools_exe_or_setup_built": false,
+  "upload_pending": false,
+  "release_url": "https://github.com/ngdlinhads-code77/TR-NH-DUY-T/releases/tag/mimic-157.0.8103.16",
+  "release_id": 450335273
+}
